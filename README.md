@@ -2,16 +2,18 @@
 
 ### 📌 Active Projects 
 
-- 📚 **Codecabulary**: A mobile app that simplifies coding terminology for beginners. (`Expo`, `Supabase`)
-- 🚀 **Repeatica**: An AI-powered learning tool that helps you remember what you’ve learned. (`Next.js`, `Expo`, `Express.js`, `PostgreSQL` `OpenAI API`)
+- 📚 **Readometry**: A reading habit builder app that helps you track the books and pages you’ve read while building consistent reading habits. (`Swift`, `SwiftUI`, `Core Data`, `CloudKit`)
 - 🏋️‍♂️ **Bulkingo**: A simple, no-nonsense fitness tracker designed for people struggling to gain muscle. (`Swift`, `SwiftUI`, `CloudKit`)
+- {} **Codecabulary**: A mobile app that simplifies coding terminology for beginners. (`Expo`, `Supabase`)
+
+
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks:**  
-`JavaScript` `TypeScript` `Tailwind CSS` `React` `Next.js` `React Native` `Expo` `Swift` `SwiftUI` `Node.js` `Express.js`
+`Swift` `SwiftUI` `JavaScript` `TypeScript` `Tailwind CSS` `React` `Next.js` `React Native` `Expo`  `Node.js` `Express.js`
 
 **State Management & Libraries:**  
 `Redux` `Zustand`
