@@ -4,40 +4,43 @@
 
 - 📚 **Readometry**: A reading habit builder app that helps you track the books and pages you’ve read while building consistent reading habits. (`Swift`, `SwiftUI`, `Core Data`, `CloudKit`)
 - 🏋️‍♂️ **Bulkingo**: A simple, no-nonsense fitness tracker designed for people struggling to gain muscle. (`Swift`, `SwiftUI`, `CloudKit`)
-- {} **Codecabulary**: A mobile app that simplifies coding terminology for beginners. (`Expo`, `Supabase`)
+- {} **Codecabulary**: A mobile app that simplifies coding terminology for beginners. (`Swift`, `SwiftUI`, `AWS Amplify`, `OpenAI API`, )
 
 
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ My main stack
 
-**Languages & Frameworks:**  
-`Swift` `SwiftUI` `JavaScript` `TypeScript` `Tailwind CSS` `React` `Next.js` `React Native` `Expo`  `Node.js` `Express.js`
+`Swift` `SwiftUI` 
 
-**State Management & Libraries:**  
-`Redux` `Zustand`
+<!-- 
+`Supabase` `AWS Amplify`
+`Core Data` `CloudKit`
+`UIKit`
+`Combine`  `StoreKit` 
+`XCTest` `TestFlight`
+`OpenAI API` `Create ML` `Core ML`
+`Sketch`
+`PostgreSQL`
+-->
 
-**Testing & APIs:**  
-`Jest` `GraphQL` `REST APIs`
 
-**Databases & Back-End Services:**  
-`PostgreSQL` `Firebase` `Supabase` `CloudKit`
 
-**Deployment & Cloud:**  
-`Vercel` `AWS`
+### I use these from time to time
+`JavaScript` `TypeScript` `React Native` `Expo`  
+
+`React` `Next.js` `Node.js` `Express.js` 
+<!-- 
+`Firebase` `Vercel` `AWS`
+`Tailwind CSS` `Redux` `Zustand` `Jest` `GraphQL` `REST APIs` 
+`LangChain` `Hugging Face`
+-->
+
+
 
 ---
 
-### 🤖 AI Stuff
-
-**AI Technologies & Frameworks:**  
-`OpenAI API` `LangChain` `Hugging Face`
-
-**AI Tools & Databases:**  
-`Chroma` `Pinecone`
-
----
 
 ### ＠ Let's Connect
 
