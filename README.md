@@ -26,7 +26,7 @@ While **iOS development** is my primary focus, I have a versatile, modern tech s
 
 - **Website:** [keremdzan.com](https://keremdzan.com)
 - **X:** [@keremdzan](https://x.com/keremdzan)
-- **LinkedIn:** [keremdzan](https://www.linkedin.com/in/keremdzan/)
+- **LinkedIn:** [in/keremdzan](https://www.linkedin.com/in/keremdzan/)
 
 
 
