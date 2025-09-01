@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm Keremcan 👋
 
-<!--
-**keremdzan/keremdzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Mobile Developer** who builds simple, practical apps that solve real-world problems—designed with clarity, performance, and user experience in mind.
 
-Here are some ideas to get you started:
+I've specialized in ```Swift```, ```SwiftUI```, and ```Flutter``` — with expertise across Apple frameworks, modern concurrency, Firebase-first architectures, and integrating AI APIs into production apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Apps I've Built
+
+I've launched multiple commercial apps on the App Store, including:
+- **Hypertrofie** – AI-powered gym coach
+- **Expendica** – AI financial assistant  
+- **Repeatica** – AI study notes with spaced repetition
+
+## 🚀 Experience
+
+I have **3+ years of experience** developing apps end-to-end: from design, coding, and integrations to App Store deployment, monetization, and user feedback.
+
+Beyond coding, I bring a product-focused mindset with strong UI/UX instincts and a track record of shipping polished, usable products. I thrive in environments where technical depth and creativity come together to deliver tools that people actually use and love.
+
+## 🛠 Technical Skills
+
+**Languages:** ```Swift```, ```Dart```  
+**UI Frameworks:** ```SwiftUI```, ```Flutter```, ```UIKit```  
+**Backend & Cloud:** ```Firebase```, ```Google Cloud Platform```  
+**AI Integrations:** ```Core ML```, ```OpenAI API```, ```Vertex AI```, ```RAG```, ```TensorFlow.js```, ```LangChain.js```  
+**Additional:** ```JavaScript```, ```TypeScript```, ```React/Next.js```, ```Tailwind```  
+
+## 🌍 Beyond Code
+
+Outside of work, I'm into weight training, languages (currently learning Spanish), and reading. I can speak English, Turkish, Polish, and Russian.
