@@ -13,7 +13,7 @@ I've launched multiple commercial apps on the App Store, including:
 
 ## 🚀 Experience
 
-I have **3+ years of experience** developing apps end-to-end: from design, coding, and integrations to App Store deployment, monetization, and user feedback.
+I have **4 years of experience** developing apps end-to-end: from design, coding, and integrations to App Store deployment, monetization, and user feedback.
 
 Beyond coding, I bring a product-focused mindset with strong UI/UX instincts and a track record of shipping polished, usable products. I thrive in environments where technical depth and creativity come together to deliver tools that people actually use and love.
 
